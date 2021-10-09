@@ -60,7 +60,7 @@ log - admin cmd
 
 ### Follow on:
 <p align="left">
-<a href="https://github.com/Mrvishal2k2"><img src="https://img.shields.io/badge/GitHub-Follow%20on%20GitHub-inactive.svg?logo=github"></a>
+<a href="https://github.com/FRIENDLYTECHYT"><img src="https://img.shields.io/badge/GitHub-Follow%20on%20GitHub-inactive.svg?logo=github"></a>
 </p>
 <p align="left">
 <a href="https://twitter.com/Mrvishal2k2"><img src="https://img.shields.io/badge/Twitter-Follow%20on%20Twitter-informational.svg?logo=twitter"></a>
