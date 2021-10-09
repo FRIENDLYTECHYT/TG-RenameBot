@@ -25,7 +25,7 @@ python3 bot.py
 
 ### Developer 
 * Telegram [Mr.Perfect](https://t.me/lucifer11233) 
-* You can checkout my bots At [BotDunia](https://t.me/BotDunia)
+* You can checkout my bots At [SuperBotsZ](https://t.me/Superbotsz)
  
 
 #### Required Variables
