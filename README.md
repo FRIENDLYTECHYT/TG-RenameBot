@@ -8,7 +8,7 @@ and Auto detection !!
 ### Installation
 
 #### Easy Way 
-Use [Rename Robot](https://t.me/RenameDuniaBot) 
+Use [Rename Robot](https://t.me/RenamxyzBot) 
 
 #### The Simple Way
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
@@ -24,8 +24,8 @@ python3 bot.py
 ```
 
 ### Developer 
-* Telegram [Mrvishal2k2](https://t.me/Mrvishal_2k2) 
-* You can checkout my bots At [BotDunia](https://t.me/BotDunia)
+* Telegram [Mr.Perfect](https://t.me/lucifer11233) 
+* You can checkout my bots At [SuperBotsZ](https://t.me/Superbotsz)
  
 
 #### Required Variables
@@ -53,14 +53,14 @@ log - admin cmd
 * Add Auth system for private use 
 
 ### Support:
-* Join BotDunia channel
-<a href="https://t.me/BotDunia"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"></a>
+* Join Super BotsZ channel
+<a href="https://t.me/super BotsZ"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"></a>
 * Join Support Group
-<a href="https://t.me/BotDuniaSupport"><img src="https://img.shields.io/badge/Telegram-Join%20Telegram%20Group-blue.svg?logo=telegram"></a>
+<a href="https://t.me/superbotszsupport"><img src="https://img.shields.io/badge/Telegram-Join%20Telegram%20Group-blue.svg?logo=telegram"></a>
 
 ### Follow on:
 <p align="left">
-<a href="https://github.com/Mrvishal2k2"><img src="https://img.shields.io/badge/GitHub-Follow%20on%20GitHub-inactive.svg?logo=github"></a>
+<a href="https://github.com/FRIENDLYTECHYT"><img src="https://img.shields.io/badge/GitHub-Follow%20on%20GitHub-inactive.svg?logo=github"></a>
 </p>
 <p align="left">
 <a href="https://twitter.com/Mrvishal2k2"><img src="https://img.shields.io/badge/Twitter-Follow%20on%20Twitter-informational.svg?logo=twitter"></a>
