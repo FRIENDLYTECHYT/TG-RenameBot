@@ -8,7 +8,7 @@ and Auto detection !!
 ### Installation
 
 #### Easy Way 
-Use [Rename Robot](https://t.me/RenamexyzBot) 
+Use [Rename Robot](https://t.me/RenamxyzBot) 
 
 #### The Simple Way
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
