@@ -16,7 +16,7 @@ Use [Rename Robot](https://t.me/RenamxyzBot)
 #### Hard Way (VPS)
 * This is just a demo of commands to use
 ```
-git clone https://github.com/mrvishal2k2/TG-RenameBot
+git clone https://github.com/FRIENDLYTECHYT/RenamxyzBot
 virtualenv -p /usr/bin/python3 venv
 . ./venv/bin/activate
 pip install -r requirements.txt
